@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Custom
+/unsloth_compiled_cache/
+/_unsloth_sentencepiece_temp/
+/llama.cpp/
+/outputs/
+/transcript-formatter/
+/data/
